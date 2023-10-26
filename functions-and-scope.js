@@ -213,3 +213,5 @@ function highestGrade(arr){
 console.log(highestGrade(grades));
 console.log(highestGrade([6, 4, 5]));
 console.log(highestGrade([8, 9, 4, 6, 10]));
+
+//uitwerkingen-js-les04
